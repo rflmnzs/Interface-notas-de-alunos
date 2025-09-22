@@ -31,15 +31,17 @@ Uma aplicação gráfica simples feita em **Python + Tkinter** que calcula a **s
 ## 🌟 Diferenciais
 
 ✨ Interface gráfica intuitiva
+
 ✨ Código simples e bem estruturado
+
 ✨ Validação de entradas para evitar erros
+
 ✨ Uso de cores dinâmicas para indicar a situação do aluno
 
 ## 🧑‍💻 Autor
 
 👤 Rafael Menezes
 📌 Estudante de Sistems de Informação | Senac
-💡 Apaixonado por programação e desenvolvimento de interfaces gráficas
 
-Exemplo da interface:  
+💡 Apaixonado por programação  
 

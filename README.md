@@ -41,6 +41,7 @@ Uma aplicação gráfica simples feita em **Python + Tkinter** que calcula a **s
 ## 🧑‍💻 Autor
 
 👤 Rafael Menezes
+
 📌 Estudante de Sistems de Informação | Senac
 
 💡 Apaixonado por programação  
